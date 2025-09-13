@@ -80,14 +80,14 @@
 
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 | :--: | :---: | :--- | :---: | :---: |
-| 8 | Alta | Como paciente, quero solicitar um plano alimentar semanal à IA com base no meu perfil, para receber um guia estruturado de refeições que me ajude a atingir meus objetivos de saúde. | 80 | 2 |
-| 9 | Alta | Como paciente, quero solicitar receitas saudáveis que sejam compatíveis com meu plano alimentar e minhas restrições, para ter mais variedade e aderir mais facilmente à dieta. | 70 | 2 |
-| 10 | Alta | Como paciente, quero visualizar o histórico de todos os planos alimentares e prescrições gerados, para acompanhar minha evolução e consultar orientações passadas. | 40 | 2 |
-| 11 | Média | Como Nutricionista, quero receber uma notificação por e-mail e na plataforma para aceitar ou recusar um pedido de vinculação de um paciente. | 40 | 2 |
-| 12 | Média | Como Nutricionista, quero revisar e editar os planos alimentares gerados pela IA para meus pacientes, para garantir a precisão das recomendações e adicionar minha personalização profissional, usando a plataforma como uma ferramenta de otimização do meu atendimento. | 50 | 2 |
-| 13 | Média | Como paciente, quero poder solicitar a vinculação com um nutricionista através do e-mail dele, para que ele possa acessar meu perfil e me acompanhar na plataforma. | 40 | 2 |
-| 14 | Média | Como Nutricionista, quero ter um dashboard com a lista de todos os meus pacientes vinculados, para monitorar o progresso e acessar rapidamente seus perfis e históricos de interação. | 50 | 2 |
-| 15 | Baixa | Como usuário (paciente ou nutricionista), quero poder redefinir minha senha de forma segura, para recuperar o acesso à minha conta caso a esqueça. | 40 | 2 |
+| 1 | Alta | Como paciente, quero fazer perguntas abertas sobre nutrição e alimentação, para receber respostas imediatas e contextualizadas com base no meu perfil de saúde. | 90 | 1 |
+| 2 | Alta | Como paciente, quero pedir dicas e estratégias para criar hábitos alimentares saudáveis, para que eu possa manter meus resultados a longo prazo e ter mais autonomia sobre minha saúde. | 70 | 1 |
+| 3 | Média | Como novo usuário (paciente ou nutricionista), quero criar uma conta na plataforma, para poder acessar as funcionalidades e salvar minhas informações. | 40 | 1 |
+| 4 | Média | Como usuário cadastrado, quero fazer login de forma segura, para acessar meu perfil e dados. | 30 | 1 |
+| 5 | Alta | Como um novo paciente, quero ser guiado por um processo de coleta de dados de saúde e hábitos, para a geração de recomendações personalizadas. | 60 | 1 |
+| 6 | Média | Como usuário, quero um menu de navegação claro e acessível, para encontrar facilmente as diferentes seções da plataforma. | 20 | 1 |
+| 7 | Média | Como paciente, quero poder visualizar e editar meus dados de perfil e informações de saúde através de um formulário na minha conta, para manter minhas informações sempre atualizadas. | 20 | 1 |
+
 
 </details>
 <span id="prototipo">
@@ -98,13 +98,14 @@
 
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 | :--: | :---: | :--- | :---: | :---: |
-| 1 | Alta | Como paciente, quero fazer perguntas abertas sobre nutrição e alimentação, para receber respostas imediatas e contextualizadas com base no meu perfil de saúde. | 90 | 1 |
-| 2 | Alta | Como paciente, quero pedir dicas e estratégias para criar hábitos alimentares saudáveis, para que eu possa manter meus resultados a longo prazo e ter mais autonomia sobre minha saúde. | 70 | 1 |
-| 3 | Média | Como novo usuário (paciente ou nutricionista), quero criar uma conta na plataforma, para poder acessar as funcionalidades e salvar minhas informações. | 40 | 1 |
-| 4 | Média | Como usuário cadastrado, quero fazer login de forma segura, para acessar meu perfil e dados. | 30 | 1 |
-| 5 | Alta | Como um novo paciente, quero ser guiado por um processo de coleta de dados de saúde e hábitos, para a geração de recomendações personalizadas. | 60 | 1 |
-| 6 | Média | Como usuário, quero um menu de navegação claro e acessível, para encontrar facilmente as diferentes seções da plataforma. | 20 | 1 |
-| 7 | Média | Como paciente, quero poder visualizar e editar meus dados de perfil e informações de saúde através de um formulário na minha conta, para manter minhas informações sempre atualizadas. | 20 | 1 |
+| 8 | Alta | Como paciente, quero solicitar um plano alimentar semanal à IA com base no meu perfil, para receber um guia estruturado de refeições que me ajude a atingir meus objetivos de saúde. | 80 | 2 |
+| 9 | Alta | Como paciente, quero solicitar receitas saudáveis que sejam compatíveis com meu plano alimentar e minhas restrições, para ter mais variedade e aderir mais facilmente à dieta. | 70 | 2 |
+| 10 | Alta | Como paciente, quero visualizar o histórico de todos os planos alimentares e prescrições gerados, para acompanhar minha evolução e consultar orientações passadas. | 40 | 2 |
+| 11 | Média | Como Nutricionista, quero receber uma notificação por e-mail e na plataforma para aceitar ou recusar um pedido de vinculação de um paciente. | 40 | 2 |
+| 12 | Média | Como Nutricionista, quero revisar e editar os planos alimentares gerados pela IA para meus pacientes, para garantir a precisão das recomendações e adicionar minha personalização profissional, usando a plataforma como uma ferramenta de otimização do meu atendimento. | 50 | 2 |
+| 13 | Média | Como paciente, quero poder solicitar a vinculação com um nutricionista através do e-mail dele, para que ele possa acessar meu perfil e me acompanhar na plataforma. | 40 | 2 |
+| 14 | Média | Como Nutricionista, quero ter um dashboard com a lista de todos os meus pacientes vinculados, para monitorar o progresso e acessar rapidamente seus perfis e históricos de interação. | 50 | 2 |
+| 15 | Baixa | Como usuário (paciente ou nutricionista), quero poder redefinir minha senha de forma segura, para recuperar o acesso à minha conta caso a esqueça. | 40 | 2 |
 
 </details>
 
