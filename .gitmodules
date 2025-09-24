@@ -1,0 +1,9 @@
+[submodule "IA_NutriMind_Xertica"]
+	path = IA_NutriMind_Xertica
+	url = https://github.com/Equipe-Meta-Code/IA-NutriMind-Xertica
+[submodule "Backend_NutriMind_Xertica"]
+	path = Backend_NutriMind_Xertica
+	url = https://github.com/Equipe-Meta-Code/Backend-NutriMind-Xertica
+[submodule "Frontend_NutriMind_Xertica"]
+	path = Frontend_NutriMind_Xertica
+	url = https://github.com/Equipe-Meta-Code/Frontend-NutriMind-Xertica
