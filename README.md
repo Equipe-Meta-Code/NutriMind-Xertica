@@ -6,6 +6,7 @@
     <a href ="#cronograma">Cronograma</a>  |
     <a href ="#tecnologias">Tecnologias</a>  | -->
     <a href ="#backlog">Backlog</a>  |
+    <a href =#tecnologias>Tecnologias<a/> |
 <!--     <a href ="#mvp">MVP</a>  |
     <a href =#prototipo>Protótipo<a/> |
     <a href =#modelagem-bd>Modelagem BD<a/> |
@@ -19,7 +20,7 @@
 ## 🎯 Objetivo
 
 O objetivo deste projeto é desenvolver o NutriMind, um agente conversacional inteligente focado em oferecer suporte nutricional personalizado e acessível. Utilizando o modelo de linguagem medGemma da Google, a plataforma guiará os usuários se baseando em uma coleta de dados de saúde interativa, hábitos e objetivos.
-
+<!--
 <span id="requisitos">
   
 ## 📍 Requisitos funcionais
@@ -32,9 +33,8 @@ O objetivo deste projeto é desenvolver o NutriMind, um agente conversacional in
    
 ## ⏳ Cronograma    
 
-<span id="tecnologias">
-  
-## ⚙️ Ferramentas e Tecnologias Utilizadas -->
+ -->
+ 
 
 
 <span id="backlog">
@@ -92,7 +92,6 @@ O objetivo deste projeto é desenvolver o NutriMind, um agente conversacional in
 
 
 </details>
-<span id="prototipo">
 
 <details>
 
@@ -127,9 +126,52 @@ O objetivo deste projeto é desenvolver o NutriMind, um agente conversacional in
 | 22 | Baixa | Como paciente, quero enviar uma foto da minha refeição e receber uma análise estimada de seus macronutrientes e calorias, para monitorar minha ingestão diária e aprender sobre a composição dos alimentos. | 80 | 3 | ✅ |
 | 23 | Baixa | Como usuário, quero acessar uma página de Perguntas Frequentes (FAQ) para tirar dúvidas comuns. | 20 | 3 | ❌ |
 
-
 </details>
-     
+
+
+<span id="tecnologias">
+
+## ⚙️ Ferramentas e Tecnologias Utilizadas
+    
+<a href="https://www.atlassian.com/software/jira" target="_blank">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"/>
+</a>
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</a>
+<a href="https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software" target="_blank">
+<img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" alt="Teams"/>
+</a>
+<a href="https://www.java.com/pt-BR/" target="_blank">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+</a>
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+</a>
+<a href="https://maven.apache.org/" target="_blank">
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
+</a>
+<a href="https://swagger.io/" target="_blank">
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
+</a>
+<a href="https://www.python.org" target="_blank">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</a>
+<a href="https://flask.palletsprojects.com/" target="_blank">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+</a>
+<a href="https://google.github.io/adk-docs/" target="_blank">
+<img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ADK"/>
+</a>
+<a href="https://vuejs.org/" target="_blank">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
+</a>
 <!-- ## Protótipo Figma
 📲 [Clique aqui](url) para acessar o protótipo! *(Segure `Ctrl` e clique para abrir em nova guia)*
  -->
