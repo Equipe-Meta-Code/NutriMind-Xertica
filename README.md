@@ -2,24 +2,16 @@
 
 <p align="center">
     <a href ="#objetivo">Objetivo</a>  |
-<!--     <a href ="#requisitos">Requisitos</a>  |
-    <a href ="#cronograma">Cronograma</a>  |
-    <a href ="#tecnologias">Tecnologias</a>  | -->
     <a href ="#backlog">Backlog</a>  |
     <a href =#tecnologias>Tecnologias<a/> |
-<!--     <a href ="#mvp">MVP</a>  |
-    <a href =#prototipo>Protótipo<a/> |
-    <a href =#modelagem-bd>Modelagem BD<a/> |
-    <a href =#instalação>Instalação<a/> |
-    <a href =#videos-entregas>Vídeos<a/> | -->
     <a href ="#equipe">Equipe</a>  
 </p>
 
 <span id="objetivo">
   
-## 🎯 Objetivo
+## 🎯 Desafio e objetivo
 
-O objetivo deste projeto é desenvolver o NutriMind, um agente conversacional inteligente focado em oferecer suporte nutricional personalizado e acessível. Utilizando o modelo de linguagem medGemma da Google, a plataforma guiará os usuários se baseando em uma coleta de dados de saúde interativa, hábitos e objetivos.
+Para combater a dificuldade e o alto custo do acesso a um acompanhamento nutricional personalizado, o desafio consiste em desenvolver o NutriMind, um agente conversacional inteligente baseado no modelo medGemma do Google. A plataforma realizará uma anamnese interativa para gerar planos alimentares e recomendações de saúde personalizadas, enquanto implementa um modelo Human-in-the-Loop (HITL) que permite a nutricionistas revisar e validar essas sugestões, garantindo a segurança e a precisão do acompanhamento, oferecendo uma grande base de conhecimentos gerais sobre nutrição e alimentos, com o usuário podendo sanar dúvidas simples e avançadas, pedindo receitas caso necessário e obtendo informações nutricionais delas. O objetivo é unir a eficiência e conhecimento da IA com a confiabilidade da supervisão profissional para oferecer um suporte nutricional seguro, acessível e verdadeiramente adaptado a cada usuário.
 <!--
 <span id="requisitos">
   
