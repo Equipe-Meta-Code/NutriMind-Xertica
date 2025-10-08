@@ -18,11 +18,7 @@
 
 > Status da Sprint: Concluída ✅
 
-## 🏅 Desafio <a id="desafio"></a>
-
-Para combater a dificuldade e o alto custo do acesso a um acompanhamento nutricional personalizado, o desafio consiste em desenvolver o NutriMind, um agente conversacional inteligente baseado no modelo medGemma do Google. A plataforma realizará uma anamnese interativa para gerar planos alimentares e recomendações de saúde personalizadas, enquanto implementa um modelo Human-in-the-Loop (HITL) que permite a nutricionistas revisar e validar essas sugestões, garantindo a segurança e a precisão do acompanhamento, oferecendo uma grande base de conhecimentos gerais sobre nutrição e alimentos, com o usuário podendo sanar dúvidas simples e avançadas, pedindo receitas caso necessário e obtendo informações nutricionais delas. O objetivo é unir a eficiência e conhecimento da IA com a confiabilidade da supervisão profissional para oferecer um suporte nutricional seguro, acessível e verdadeiramente adaptado a cada usuário.
-
-## 📋 User Stories <a id="us"></a>
+## 📋 Backlog Sprint 1 <a id="us"></a>
 
 | Rank | Prioridade | User Story | Estimativa | Sprint | Meta da Sprint |
 | :--: | :---: | :--- | :---: | :---: | :---: |
@@ -48,15 +44,3 @@ Para combater a dificuldade e o alto custo do acesso a um acompanhamento nutrici
 - [ ] Estratégia de testes definida
 
 <span id="equipe">
-     
-## 👥 Equipe
-
-|Nome|Função|GitHub|
-| -------- |-------- |-------- |
-|**Ana Luisa Andrade**|Developer Team|[![](https://bit.ly/3f9Xo0P)](https://github.com/LuisaAndrade28)|
-|**Dianne Faria**|Developer Team| [![](https://bit.ly/3f9Xo0P)](https://github.com/DianneFaria)|
-|**Gustavo Sena**|Developer Team|[![](https://bit.ly/3f9Xo0P)](https://github.com/gustavosenamp)|
-|**Julia Gonzalez**|Scrum Master|[![](https://bit.ly/3f9Xo0P)](https://github.com/juliagonzalezmoreira)|
-|**Maria Luiza Guedes**|Developer Team|[![](https://bit.ly/3f9Xo0P)](https://github.com/mluizaguedes)|
-|**Pedro Henrique Ribeiro**|Product Owner|[![](https://bit.ly/3f9Xo0P)](https://github.com/pedrohenribeiro)|
-|**Sofia Lessa**|Developer Team|[![](https://bit.ly/3f9Xo0P)](https://github.com/sofialessaa)|
