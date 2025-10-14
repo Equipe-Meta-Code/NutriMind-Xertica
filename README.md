@@ -12,20 +12,6 @@
 ## 🎯 Desafio e objetivo
 
 Para combater a dificuldade e o alto custo do acesso a um acompanhamento nutricional personalizado, o desafio consiste em desenvolver o NutriMind, um agente conversacional inteligente baseado no modelo medGemma do Google. A plataforma realizará uma anamnese interativa para gerar planos alimentares e recomendações de saúde personalizadas, enquanto implementa um modelo Human-in-the-Loop (HITL) que permite a nutricionistas revisar e validar essas sugestões, garantindo a segurança e a precisão do acompanhamento, oferecendo uma grande base de conhecimentos gerais sobre nutrição e alimentos, com o usuário podendo sanar dúvidas simples e avançadas, pedindo receitas caso necessário e obtendo informações nutricionais delas. O objetivo é unir a eficiência e conhecimento da IA com a confiabilidade da supervisão profissional para oferecer um suporte nutricional seguro, acessível e verdadeiramente adaptado a cada usuário.
-<!--
-<span id="requisitos">
-  
-## 📍 Requisitos funcionais
-
-
-## 📍 Requisitos não-funcionais
-
-
-<!-- <span id="cronograma">  
-   
-## ⏳ Cronograma    
-
- -->
  
 
 
@@ -63,6 +49,14 @@ Para combater a dificuldade e o alto custo do acesso a um acompanhamento nutrici
 | 22 | Baixa | Como paciente, quero enviar uma foto da minha refeição e receber uma análise estimada de seus macronutrientes e calorias, para monitorar minha ingestão diária e aprender sobre a composição dos alimentos. | 80 | 3 |
 | 23 | Baixa | Como usuário, quero acessar uma página de Perguntas Frequentes (FAQ) para tirar dúvidas comuns. | 20 | 3 |
 </details>
+
+## Sprints
+
+
+| Sprint | Período | Link Doc | Link Video |
+|---|---|---|---|
+| 1 | 08/09/2025 - 28/09/2025 | Link Doc | [Link para o vídeo da Sprint 1](https://www.youtube.com/watch?v=o2-4zX-Z9fE) |
+
 
 <span id="tecnologias">
 
