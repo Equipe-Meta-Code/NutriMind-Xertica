@@ -55,8 +55,8 @@ Para combater a dificuldade e o alto custo do acesso a um acompanhamento nutrici
 
 | Sprint | Período | Link Documentação | Link Video |
 |---|---|---|---|
-| 1 | 08/09/2025 - 28/09/2025 | [Link Documentação](/Docs/processo/sprints/sprint-1/README.md) | [Link para o vídeo da Sprint 1](https://www.youtube.com/watch?v=o2-4zX-Z9fE) |
-| 2 | 08/09/2025 - 28/09/2025 | [Link Documentação](/Docs/processo/sprints/sprint-2/README.md) | Link para o vídeo da Sprint 2 |
+| 1 | 08/09/2025 - 28/09/2025 | [Link Documentação](/docs/processo/sprints/sprint-1/README.md) | [Link para o vídeo da Sprint 1](https://www.youtube.com/watch?v=o2-4zX-Z9fE) |
+| 2 | 08/09/2025 - 28/09/2025 | [Link Documentação](/docs/processo/sprints/sprint-2/README.md) | Link para o vídeo da Sprint 2 |
 
 
 <span id="tecnologias">
