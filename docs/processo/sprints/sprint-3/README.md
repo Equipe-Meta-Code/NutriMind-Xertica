@@ -22,11 +22,11 @@
 
 | Rank | Prioridade | User Story | Estimativa | Sprint | Meta da Sprint |
 | :--: | :---: | :--- | :---: | :---: | :---: |
-| 14| Alta | Como paciente, quero poder informar à IA sobre mudanças nos meus dados de saúde através do chat, para que meu perfil seja atualizado de forma rápida e conveniente. | 40 | 3 | ✅ |
-| 15 | Alta |  Como paciente, quero poder baixar meu plano alimentar em formato PDF, para imprimir ou acessar offline facilmente. | 30 | 3 | ✅ |
-| 16 | Alta | Como paciente, quero ter a opção de receber meu plano alimentar por e-mail, para maior conveniência e facilidade de compartilhamento. | 40 | 3 | ✅ |
-| 17 | Média | Como usuário, quero acessar uma página de Perguntas Frequentes (FAQ) para tirar dúvidas comuns. | 20 | 3 | ✅ |
-| 18 | Baixa | Como paciente, quero enviar uma foto da minha refeição e receber uma análise estimada de seus macronutrientes e calorias, para monitorar minha ingestão diária e aprender sobre a composição dos alimentos. | 80 | 3 | ❌ |
+| 13| Alta | Como paciente, quero poder informar à IA sobre mudanças nos meus dados de saúde através do chat, para que meu perfil seja atualizado de forma rápida e conveniente. | 40 | 3 | ✅ |
+| 14 | Alta |  Como paciente, quero poder baixar meu plano alimentar em formato PDF, para imprimir ou acessar offline facilmente. | 30 | 3 | ✅ |
+| 15 | Alta | Como paciente, quero ter a opção de receber meu plano alimentar por e-mail, para maior conveniência e facilidade de compartilhamento. | 40 | 3 | ✅ |
+| 16 | Média | Como usuário, quero acessar uma página de Perguntas Frequentes (FAQ) para tirar dúvidas comuns. | 20 | 3 | ✅ |
+| 17 | Baixa | Como paciente, quero enviar uma foto da minha refeição e receber uma análise estimada de seus macronutrientes e calorias, para monitorar minha ingestão diária e aprender sobre a composição dos alimentos. | 80 | 3 | ❌ |
 
 ## 🏅 DoR - Definition of Ready <a id="dor"></a>
 

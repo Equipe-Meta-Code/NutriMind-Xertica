@@ -24,7 +24,7 @@
 | :--: | :---: | :--- | :---: | :---: | :---: |
 | 1 | Alta | Como paciente, quero fazer perguntas abertas sobre nutrição e alimentação, para receber respostas imediatas e contextualizadas com base no meu perfil de saúde. | 90 | 1 | ✅ |
 | 2 | Alta | Como paciente, quero pedir dicas e estratégias para criar hábitos alimentares saudáveis, para que eu possa manter meus resultados a longo prazo e ter mais autonomia sobre minha saúde. | 70 | 1 | ✅ |
-| 3 | Média | Como novo usuário (paciente ou nutricionista), quero criar uma conta na plataforma, para poder acessar as funcionalidades e salvar minhas informações. | 40 | 1 | ✅ |
+| 3 | Média | Como novo usuário, quero criar uma conta na plataforma, para poder acessar as funcionalidades e salvar minhas informações. | 40 | 1 | ✅ |
 | 4 | Média | Como usuário cadastrado, quero fazer login de forma segura, para acessar meu perfil e dados. | 30 | 1 | ✅ |
 | 5 | Alta | Como um novo paciente, quero ser guiado por um processo de coleta de dados de saúde e hábitos, para a geração de recomendações personalizadas. | 60 | 1 | ✅ |
 | 6 | Média | Como usuário, quero um menu de navegação claro e acessível, para encontrar facilmente as diferentes seções da plataforma. | 20 | 1 | ❌ |
