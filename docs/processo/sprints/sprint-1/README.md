@@ -35,6 +35,8 @@
 - [ ] Tem título claro, descrição bem definida e objetivo compreendido
 - [ ] Tem critérios de aceitação escritos
 - [ ] Tem regras de negócio claras
+- [ ] [Mocks](../../imgs/)
+- [ ] [Docs](../../docs/)
 - [ ] Foi estimada pela equipe
 - [ ] Sem dependências bloqueadoras
 - [ ] Compreensão validada com o time

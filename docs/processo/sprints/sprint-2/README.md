@@ -16,7 +16,7 @@
   <a href ="#equipe"> Equipe</a> |
 </p>
 
-> Status da Sprint: Em andamento
+> Status da Sprint: Concluída ✅
 
 ## 📋 Backlog Sprint 2 <a id="us"></a>
 
@@ -26,15 +26,14 @@
 | 9 | Alta | Como paciente, quero solicitar receitas saudáveis que sejam compatíveis com meu plano alimentar e minhas restrições, para ter mais variedade e aderir mais facilmente à dieta. | 70 | 2 | ✅ |
 | 10 | Alta | Como paciente, quero visualizar o histórico de todos os planos alimentares e prescrições gerados, para acompanhar minha evolução e consultar orientações passadas. | 40 | 2 | ✅ |
 | 11 | Média | Como paciente, quero poder criar múltiplos chats na plataforma, para poder visualizar minhas interações de uma forma organizada e prática. | 40 | 2 | ✅ |
-| 12 | Média | Como Nutricionista, quero revisar e editar os planos alimentares gerados pela IA para meus pacientes, para garantir a precisão das recomendações e adicionar minha personalização profissional, usando a plataforma como uma ferramenta de otimização do meu atendimento. | 50 | 2 | ✅ |
 | 13 | Baixa | Como usuário (paciente), quero poder redefinir minha senha de forma segura, para recuperar o acesso à minha conta caso a esqueça. | 40 | 2 | ❌ |
 
 ## 🏅 DoR - Definition of Ready <a id="dor"></a>
 
 - [ ] Tem título claro, descrição bem definida e objetivo compreendido
 - [ ] Tem critérios de aceitação escritos
-- [ ] [Tem critérios de aceitação escritos](../)
 - [ ] [Mocks](../../imgs/)
+- [ ] [Docs](../../docs/)
 - [ ] Tem regras de negócio claras
 - [ ] Foi estimada pela equipe
 - [ ] Sem dependências bloqueadoras
