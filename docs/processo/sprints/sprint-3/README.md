@@ -3,7 +3,7 @@
 
 # NutriMind - Xertica
 
-# Documentação - Sprint 2
+# Documentação - Sprint 3
 
 <p align="center">
       <h2 align="center"> MetaCode</h2>
