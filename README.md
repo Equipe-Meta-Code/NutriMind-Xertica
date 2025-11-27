@@ -32,7 +32,6 @@ Para combater a dificuldade e o alto custo do acesso a um acompanhamento nutrici
 | 5 | Alta | Como um novo paciente, quero ser guiado por um processo de coleta de dados de saúde e hábitos, para a geração de recomendações personalizadas. | 60 | 1 |
 | 6 | Média | Como usuário, quero um menu de navegação claro e acessível, para encontrar facilmente as diferentes seções da plataforma. | 20 | 1 |
 | 7 | Média | Como paciente, quero poder visualizar e editar meus dados de perfil e informações de saúde através de um formulário na minha conta, para manter minhas informações sempre atualizadas. | 20 | 1 |
-
 | 8 | Alta | Como paciente, quero solicitar um plano alimentar semanal à IA com base no meu perfil, para receber um guia estruturado de refeições que me ajude a atingir meus objetivos de saúde. | 80 | 2 |
 | 9 | Alta | Como paciente, quero solicitar receitas saudáveis que sejam compatíveis com meu plano alimentar e minhas restrições, para ter mais variedade e aderir mais facilmente à dieta. | 70 | 2 |
 | 10 | Alta | Como paciente, quero visualizar o histórico de todos os planos alimentares e prescrições gerados, para acompanhar minha evolução e consultar orientações passadas. | 40 | 2 |
@@ -46,7 +45,6 @@ Para combater a dificuldade e o alto custo do acesso a um acompanhamento nutrici
 </details>
 
 ## Sprints
-
 
 | Sprint | Período | Link Documentação | Link Video |
 |---|---|---|---|
