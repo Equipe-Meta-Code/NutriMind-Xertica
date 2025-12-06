@@ -11,7 +11,7 @@
   
 ## 🎯 Desafio e objetivo
 
-Para combater a dificuldade e o alto custo do acesso a um acompanhamento nutricional personalizado, o desafio consiste em desenvolver o NutriMind, um agente conversacional inteligente baseado no modelo medGemma do Google. A plataforma realizará uma anamnese interativa para gerar planos alimentares e recomendações de saúde personalizadas, enquanto implementa um modelo Human-in-the-Loop (HITL) que permite a nutricionistas revisar e validar essas sugestões, garantindo a segurança e a precisão do acompanhamento, oferecendo uma grande base de conhecimentos gerais sobre nutrição e alimentos, com o usuário podendo sanar dúvidas simples e avançadas, pedindo receitas caso necessário e obtendo informações nutricionais delas. O objetivo é unir a eficiência e conhecimento da IA com a confiabilidade da supervisão profissional para oferecer um suporte nutricional seguro, acessível e verdadeiramente adaptado a cada usuário.
+Para combater a dificuldade e o alto custo do acesso a um acompanhamento nutricional personalizado, o desafio consiste em desenvolver o NutriMind, um agente conversacional inteligente baseado no modelo gemini-2.0-flash do Google. A plataforma realizará uma anamnese interativa para gerar planos alimentares e recomendações de saúde personalizadas, oferecendo uma grande base de conhecimentos gerais sobre nutrição e alimentos, com o usuário podendo sanar dúvidas simples e avançadas, pedindo receitas caso necessário e obtendo informações nutricionais delas. O objetivo é unir a eficiência e conhecimento da IA com uma plataforma intuitiva, de fácil acesso e entendimento, acessível e adaptada a cada usuário.
  
 
 
